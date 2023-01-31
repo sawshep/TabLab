@@ -1,6 +1,6 @@
 # TabLab
 
-A command-line tab editor.
+A command-line tablature editor.
 
 ## Installation
 
